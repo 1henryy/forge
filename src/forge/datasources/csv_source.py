@@ -1,4 +1,3 @@
-# __MARKER_0__
 from typing import Iterator
 
 import pyarrow as pa
