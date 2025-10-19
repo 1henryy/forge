@@ -1,4 +1,3 @@
-# __MARKER_1__
 from __future__ import annotations
 
 from abc import ABC, abstractmethod
