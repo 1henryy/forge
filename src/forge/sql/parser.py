@@ -1,4 +1,3 @@
-# __MARKER_0__
 # __MARKER_1__
 # __MARKER_2__
 # __MARKER_3__
