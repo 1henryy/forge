@@ -1,4 +1,3 @@
-# __MARKER_0__
 from __future__ import annotations
 
 from forge.logicalplan.expressions import (
