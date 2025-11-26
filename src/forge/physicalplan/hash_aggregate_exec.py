@@ -1,4 +1,3 @@
-# __MARKER_0__
 # __MARKER_1__
 from typing import Any, Iterator
 
