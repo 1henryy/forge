@@ -1,4 +1,3 @@
-# __MARKER_0__
 # __MARKER_1__
 # __MARKER_2__
 from __future__ import annotations
