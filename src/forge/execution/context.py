@@ -1,4 +1,3 @@
-# __MARKER_2__
 from __future__ import annotations
 
 from forge.datasources import CsvSource, DataSource, MemorySource, ParquetSource
