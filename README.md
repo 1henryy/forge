@@ -276,3 +276,15 @@ Query             Forge      pandas      DuckDB
 scan            38.0 ms      1.6 ms      5.8 ms
 filter         273.0 ms      3.7 ms      7.3 ms
 aggregate      307.0 ms      7.3 ms      3.3 ms
+multi_agg        2.07 s     19.1 ms     43.5 ms
+```
+
+Forge is an educational engine and is not optimized for production workloads.
+The benchmark exists to illustrate the performance characteristics of a
+query engine built from scratch compared to mature systems.
+
+## Acknowledgments
+
+This project is inspired by and follows the architecture described in
+[*How Query Engines Work*](https://leanpub.com/how-query-engines-work) by
+Andy Grove, the creator of Apache Arrow DataFusion.
